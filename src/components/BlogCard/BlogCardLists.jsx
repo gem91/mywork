@@ -36,13 +36,10 @@ const BlogCardLists = ({imgData, mainImg, setMainImg, setMainAlt, fullImgRef, se
     <div className={styles.imgLists}>
       <Swiper
         breakpoints= {{
-          678: { 
-            slidesPerView: 1, 
+          320: { 
+            slidesPerView: 3, 
           },
-          960: {
-            slidesPerView: 3,
-          },
-          1024: {
+          968: {
             slidesPerView: 4,
           },
         }}
@@ -57,7 +54,7 @@ const BlogCardLists = ({imgData, mainImg, setMainImg, setMainAlt, fullImgRef, se
       >
       { imgData.map(({imgURL, alt, id}) => (
         <SwiperSlide key={id}>
-          <span className={styles.thumb} onClick={ isMobile ? onPopup : undefined}>
+          <span className={styles.thumb}>
             <img src={process.env.PUBLIC_URL + imgURL} alt={alt} onClick={ e => handleCardImg(id, e)} />
           </span>
         </SwiperSlide>

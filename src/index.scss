@@ -131,22 +131,22 @@ p::selection, h1::selection, h2::selection, h3::selection, h4::selection {
     .swiper {
       .swiper-button-next,
       .swiper-button-prev {
-        top: 43%;
+        top: 50%;
         margin: 0;
-        width: 35px;
-        height: 40px;
-        font-size: 25px;
+        width: 30px;
+        height: 30px;
+        transform: translateY(-50%);
       }
   
       .swiper-button-prev {
         &:after {
-        font-size: 1.3rem;
+        font-size: 0.8rem;
         }
       }
   
       .swiper-button-next {
         &::after {
-          font-size: 1.3rem;
+          font-size: 0.8rem;
         }
       }
 
