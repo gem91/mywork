@@ -6,7 +6,7 @@
     "alt": "현대닷컴 홈페이지",
     "link": "https://www.hyundai.com/kr/ko/e",
     "title": "Hyundai Dotcom - GNB Improve",
-    "desc": "현대닷컴은 작동방식이 독특합니다. VUE / AEM으로 이루어져있어 하나의 기능을 구현할 때, 두가지 다 적용시켜야합니다. 유지보수 관리는 VUE 프레임워크는 GIT으로 관리를 하며 AEM은 SVN을 사용하여 관리를 하고있습니다. 깃랩을 통해서 MR을 등록하며 젠키스로 작업물을 배포합니다.",
+    "desc": "- Vue.js로 데이터값에 따른 GNB 메뉴 리스트 작업.- lifecycle을 통해 작동되는 js 관리.- SCSS 사용으로 스타일을 컴포넌트화 작업.- Git으로 작업내역 관리.- GitLap과 Jenkins로 배포 관리.- AEM으로 관리되는 GNB 메뉴 리스트 작업.- SVN을 이용해서 작업내역 관리",
     "client": "HYUNDAI",
     "date": "22-03 ~ ing",
     "skill":[ "VUE", "JAVASCRIPT", "YARN", "SVN", "HTML", "SCSS", "AEM", "GIT"]
@@ -17,8 +17,8 @@
     "alt": "현대닷컴 홈페이지",
     "link": "https://www.hyundai.com/kr/ko/e/vehicles/ioniq6/intro",
     "title": "Hyundai Dotcom - Model Component Develop",
-    "desc": "[현대닷컴] 슬라이드 작업",
-    "client": "KIA",
+    "desc": "- Vue 작업으로 리스트 캐러셀과 다양한 슬라이드 및 영상 등을 컴포넌트화 개선 및 기능 추가",
+    "client": "HYUNDAI",
     "date": "22-03 ~ ing",
     "skill":[ "VUE", "JAVASCRIPT", "YARN", "SVN", "HTML", "SCSS", "AEM", "GIT" ]
   },
@@ -28,7 +28,7 @@
     "alt": "KWCMS - 오너스 프로젝트",
     "link": "https://org-www.kia.com:8000/gt/main.html",
     "title": "KWCMS - Owner Coponents Project",
-    "desc": "[KWCMS] 텍스트.",
+    "desc": "- AEM기반으로 만들어진 사이트에서 새로운 컨텐츠 영상, 탭메뉴, 이미지 등 컴포넌트화 작업 진행.- Javascript, JQuery, HTML, CSS",
     "client": "KIA",
     "date": "22-08 ~ 22-09",
     "skill":[ "HTML", "JAVASCRIPT", "CSS" ]
@@ -39,7 +39,7 @@
     "alt": "N브랜드 홈페이지",
     "link": "https://www.hyundai-n.com/en/motorsport/tcr.do",
     "title": "Sound Track & Image Change With Slider Bar",
-    "desc": "텍스트.",
+    "desc": "- 슬라이드로 이미지 변화 기능 추가.- 사운드 트랙 기능 추가.- HTML, CSS, Jquery",
     "client": "KIA N Brand",
     "date": "22-01 ~ 22.01",
     "skill":[ "JAVASCRIPT", "HTML", "CSS" ]
@@ -50,7 +50,7 @@
     "alt": "키즈현대 홈페이지",
     "link": "https://kids.hyundai.com/index.kids",
     "title": "Kids Hyundai Youtube Media",
-    "desc": "키즈현대 텍스트.",
+    "desc": "- 영상기능 작업 및 컨텐츠 개선.- 웹표준 관리.- HTML, CSS, Jquery, Javascript",
     "client": "HYUNDAI",
     "date": "20-03 ~ 22-06",
     "skill":[ "HTML", "JAVASCRIPT", "CSS"  ]
@@ -61,7 +61,7 @@
   "alt": "코덱스 홈페이지",
   "link": "https://www.samsungfund.com/etf/main.do",
   "title": "KODEX UX UI Publishing",
-  "desc": "코덱스 내용.",
+  "desc": "- 영상 기능, 수치 작업 및 컨텐츠 관리.- 웹표준 관리.- HTML, CSS, Jquery, Javascript",
   "client": "SAMSUNG",
   "date": "21-09 ~ 22-03",
   "skill":[ "HTML", "JAVASCRIPT", "CSS" ]
@@ -72,7 +72,7 @@
     "alt": "미디어 PR 홈페이지",
     "link": "https://press.hmckmc.co.kr/main.do",
     "title": "Medai PR Login Certification",
-    "desc": "미디어pr 텍스트.",
+    "desc": "- Git으로 프로젝트 관리.- 팝업 방식의 로그인 인증 && 지문인식 로그인 방법 기능 추가.- HTML, CSS, Jquery",
     "client": "HYUNDAI",
     "date": "22-08 ~ 22-09",
     "skill":[ "HTML", "JAVASCRIPT", "CSS", "GIT"  ]
