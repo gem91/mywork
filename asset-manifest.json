@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/project/static/css/main.4a0a9d85.css",
-    "main.js": "/project/static/js/main.38a84ddd.js",
+    "main.css": "/project/static/css/main.653c35db.css",
+    "main.js": "/project/static/js/main.01228b89.js",
     "static/media/panorama-ui.gif": "/project/static/media/panorama-ui.8d549653578d14bc363c.gif",
     "static/media/car-color-change.gif": "/project/static/media/car-color-change.c58f1f6b13451565639a.gif",
     "static/media/sequence-motion.gif": "/project/static/media/sequence-motion.c6e344ece92a773b8502.gif",
@@ -15,6 +15,7 @@
     "static/media/kodex.jpg": "/project/static/media/kodex.cf8bcefc3316794f2a9c.jpg",
     "static/media/my_img01.jpg": "/project/static/media/my_img01.28b1a0524a54f8055897.jpg",
     "static/media/my_img04.jpg": "/project/static/media/my_img04.fa4eeea7e8ecc4bf024e.jpg",
+    "static/media/shop.jpg": "/project/static/media/shop.49c51957aca6c4043fa0.jpg",
     "static/media/hyundai-car.jpg": "/project/static/media/hyundai-car.186f5c00e802a0690357.jpg",
     "static/media/coding1.jpg": "/project/static/media/coding1.a067bc8bd8426c472e2d.jpg",
     "static/media/my_img03.jpg": "/project/static/media/my_img03.cfba0b3ea3047024f83e.jpg",
@@ -27,6 +28,7 @@
     "static/media/lotto.jpg": "/project/static/media/lotto.017494e847a8a5187de5.jpg",
     "static/media/kwcms-img6.jpg": "/project/static/media/kwcms-img6.da4cbf18230e5b3e5e4e.jpg",
     "static/media/nbrand-img1.jpg": "/project/static/media/nbrand-img1.c0a364dfb26aacff11af.jpg",
+    "static/media/myproject.jpg": "/project/static/media/myproject.239c566e69b293487fca.jpg",
     "static/media/hyundai-dotcom.jpg": "/project/static/media/hyundai-dotcom.1b40d8228b7fb1733b35.jpg",
     "static/media/kodex-img4.png": "/project/static/media/kodex-img4.09a31ac1595e5a8497a2.png",
     "static/media/kwcms-img1.jpg": "/project/static/media/kwcms-img1.de3763d2fa422d57147b.jpg",
@@ -53,11 +55,11 @@
     "static/media/hyundai.png": "/project/static/media/hyundai.e75d635f219659f20595.png",
     "static/media/kiehls.png": "/project/static/media/kiehls.e19131a06c2ad4a2cea6.png",
     "index.html": "/project/index.html",
-    "main.4a0a9d85.css.map": "/project/static/css/main.4a0a9d85.css.map",
-    "main.38a84ddd.js.map": "/project/static/js/main.38a84ddd.js.map"
+    "main.653c35db.css.map": "/project/static/css/main.653c35db.css.map",
+    "main.01228b89.js.map": "/project/static/js/main.01228b89.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a0a9d85.css",
-    "static/js/main.38a84ddd.js"
+    "static/css/main.653c35db.css",
+    "static/js/main.01228b89.js"
   ]
 }
