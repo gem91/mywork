@@ -9,6 +9,14 @@
   },
   {
     "id": 1,
+    "title" : "쇼핑몰 User/Admin",
+    "desc" : "구글 로그인 인증 및 Firebase DB 업로드 기능으로 상품 리스트 관리",
+    "imgURL": "/images/works/shop.jpg",
+    "tags" : [ "REACT", "SCSS", "JAVASCRIPT", "YARN", "HTML" ],
+    "url" : "https://gem91.github.io/react-shop-v2/"
+  },
+  {
+    "id": 2,
     "title" : "YOUTUBE API APP",
     "desc": "유튜브 API 호출해서 만든 어플리케이션",
     "imgURL": "/images/works/youtube.jpg",
@@ -16,7 +24,7 @@
     "url" : "https://gem91.github.io/react-youtube/"
   },
   {
-    "id": 2,
+    "id": 3,
     "title" : "Calculator JSX",
     "desc": "REACT로 만든 계산기",
     "imgURL": "/images/works/calculator.jpg",
@@ -24,20 +32,12 @@
     "url" : "https://gem91.github.io/react-calc-mission/"
   },
   {
-    "id": 3,
+    "id": 4,
     "title" : "REACT 체크리스트 APP",
     "desc": "HTML, CSS로 만든 Responsible Homepage",
     "imgURL": "/images/works/coding1.jpg",
     "tags" : [ "REACT", "CSS", "JAVASCRIPT", "HTML", "YARN" ],
     "url" : "https://gem91.github.io/react-habit-tracker/"
-  },
-  {
-    "id": 4,
-    "title" : "Hyundai 반응형 연습페이지",
-    "desc": "HTML, CSS로 만든 Responsible Homepage",
-    "imgURL": "/images/works/coding1.jpg",
-    "tags" : [ "HTML", "CSS", "JAVASCRIPT" ],
-    "url" : "https://gem91.github.io/hyundai_recruit_test/"
   },
   {
     "id": 5,

@@ -4,7 +4,6 @@ import styles from './Main.module.scss';
 // data
 import skillData from 'db/skills.json'
 import companyLogos from 'db/projectLogo.json'
-import bannerData from 'db/bannerData.json';
 
 import {gsap} from 'gsap'
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
@@ -16,7 +15,6 @@ import TabComponent from 'components/TabComponent';
 import SliderEffects from 'components/SliderEffect';
 import LightTextEffect from 'components/LightTextEffect';
 import PageNav from 'components/PageNav';
-import ImgScaleEffect from 'components/ImageEffect/ImgScaleEffect';
 import ItemFadeEffect from 'components/ImageEffect/ItemFadeEffect';
 
 
@@ -85,16 +83,6 @@ const Main = ({isMobile, isPc}) => {
 					<h3>Which <br className='m-br'></br>Companies I Worked With..!</h3>
 					<SliderEffects imageData={companyLogos} />
 				</div>
-			</div>
-			<div className={styles.accordion}>
-				<ul className={styles.imgScaleLists}>
-					{
-						bannerData.map(({imgURL, title, id}) => (
-							<ImgScaleEffect key={id} imgURL={imgURL} title={title} />
-						))
-					}
-				</ul>
-				
 			</div>
 			<div className={styles.imageFadeEffect}>
 				<div className={styles.container}>
