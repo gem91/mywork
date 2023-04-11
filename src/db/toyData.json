@@ -1,10 +1,10 @@
 [
   {
     "id": 0,
-    "title" : "인생은 한방 Lotto APP",
-    "desc" : "REACT 프레임워크로 만든 인생한방 Lotto",
-    "imgURL": "/images/works/lotto.jpg",
-    "tags" : [ "REACT", "SCSS", "JAVASCRIPT", "YARN", "HTML" ],
+    "title" : "개인 포트폴리오 사이트",
+    "desc" : "REACT로 컨텐츠 별 컴포넌트로 분기처리해서 재사용성을 활용",
+    "imgURL": "/images/works/myproject.jpg",
+    "tags" : [ "REACT", "SCSS", "JAVASCRIPT", "YARN", "HTML", "GIT", "GIT-HUB" ],
     "url" : "https://gem91.github.io/react-create-lotto/"
   },
   {
@@ -17,6 +17,15 @@
   },
   {
     "id": 2,
+    "title" : "인생은 한방 Lotto APP",
+    "desc" : "REACT 프레임워크로 만든 인생한방 Lotto",
+    "imgURL": "/images/works/lotto.jpg",
+    "tags" : [ "REACT", "SCSS", "JAVASCRIPT", "YARN", "HTML" ],
+    "url" : "https://gem91.github.io/react-create-lotto/"
+  },
+
+  {
+    "id": 3,
     "title" : "YOUTUBE API APP",
     "desc": "유튜브 API 호출해서 만든 어플리케이션",
     "imgURL": "/images/works/youtube.jpg",
@@ -24,7 +33,7 @@
     "url" : "https://gem91.github.io/react-youtube/"
   },
   {
-    "id": 3,
+    "id": 4,
     "title" : "Calculator JSX",
     "desc": "REACT로 만든 계산기",
     "imgURL": "/images/works/calculator.jpg",
@@ -32,7 +41,7 @@
     "url" : "https://gem91.github.io/react-calc-mission/"
   },
   {
-    "id": 4,
+    "id": 5,
     "title" : "REACT 체크리스트 APP",
     "desc": "HTML, CSS로 만든 Responsible Homepage",
     "imgURL": "/images/works/coding1.jpg",
@@ -40,7 +49,7 @@
     "url" : "https://gem91.github.io/react-habit-tracker/"
   },
   {
-    "id": 5,
+    "id": 6,
     "title" : "Interaction Color Change",
     "desc": "옵션 컬러칩에 맞는 색상으로 변하는 효과",
     "imgURL": "/images/works/car-color-change.gif",
@@ -48,7 +57,7 @@
     "url" : "https://gem91.github.io/ex_interaction/car_slider/index.html"
   },
   {
-    "id": 6,
+    "id": 7,
     "title" : "Interaction 모션 이펙트",
     "desc": "마우스가 움직이면 포지션값에 의해 변화하는 화면 이펙트 사이트",
     "imgURL": "/images/works/sequence-motion.gif",
@@ -56,19 +65,11 @@
     "url" : "https://gem91.github.io/ex_interaction/imgs_sequence_motion/index.html"
   },
   {
-    "id": 7,
+    "id": 8,
     "title" : "파라노마 UI 모션 이펙트",
     "desc": "무한회전으로 돌아가는 UI 인터렉터 디자인 사이트",
     "imgURL": "/images/works/panorama-ui.gif",
     "tags" : [ "HTML", "JAVASCRIPT", "CSS" ],
     "url" : "https://gem91.github.io/ex_interaction/panorama_UI/index.html"
-  },
-  {
-    "id": 8,
-    "title" : "API 뉴스기사 with VUE",
-    "desc": "HTML, CSS로 만든 Responsible Homepage",
-    "imgURL": "/images/works/api-news-list.jpg",
-    "tags" : [ "VUE", "CSS", "HTML" ],
-    "url" : "https://gem91.github.io/index.html"
   }
 ]
