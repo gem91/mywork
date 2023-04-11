@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/project/static/css/main.653c35db.css",
-    "main.js": "/project/static/js/main.01228b89.js",
+    "main.js": "/project/static/js/main.6089ad80.js",
     "static/media/panorama-ui.gif": "/project/static/media/panorama-ui.8d549653578d14bc363c.gif",
     "static/media/car-color-change.gif": "/project/static/media/car-color-change.c58f1f6b13451565639a.gif",
     "static/media/sequence-motion.gif": "/project/static/media/sequence-motion.c6e344ece92a773b8502.gif",
@@ -56,10 +56,10 @@
     "static/media/kiehls.png": "/project/static/media/kiehls.e19131a06c2ad4a2cea6.png",
     "index.html": "/project/index.html",
     "main.653c35db.css.map": "/project/static/css/main.653c35db.css.map",
-    "main.01228b89.js.map": "/project/static/js/main.01228b89.js.map"
+    "main.6089ad80.js.map": "/project/static/js/main.6089ad80.js.map"
   },
   "entrypoints": [
     "static/css/main.653c35db.css",
-    "static/js/main.01228b89.js"
+    "static/js/main.6089ad80.js"
   ]
 }
