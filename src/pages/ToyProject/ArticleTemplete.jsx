@@ -8,7 +8,9 @@ const ArticleTemplete = ({data}) => {
   <article key={data.id} className={`${styles.panel} panel`}>
     <div className={styles.itemContent}>
       <div className={styles.itemImage}>
-        <img src={require(`../../assets${data.imgURL}`)} alt={data.title} />
+        <Link to={`${data.url}`} target={'_blank'}>
+          <img src={require(`../../assets${data.imgURL}`)} alt={data.title} />
+        </Link>
       </div>
       <div className={styles.itemBody}>
         <h2 className={styles.title}>{data.title}</h2>
